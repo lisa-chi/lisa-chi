@@ -1,18 +1,18 @@
 # Alisa Chikomazova
 
 ### About
-I am a student taking my first steps in development and design. 
+Welcome to my digital space. 
 
 ### Current Focus
-* **Python Development**
-* Designing web interfaces
-* Working with artificial intelligence
+* **Python Development:** Building back-end architectures.
+* **AI & ML:** Researching machine learning algorithms.
+* **Web Design:** Creating minimalist and user-centric interfaces.
 
 ### Navigation
-* [Laboratory Works](labs.md) — *View all my projects*
-* [More about me](author.md) — *My background and hobbies*
+* [**Laboratory Works**](labs.md) — *Explore my academic progress and code samples.*
+* [**Personal Profile**](author.md) — *Learn more about my background and hobbies.*
 
 ---
-![Alisa](img/me.jpg)
+![Avatar](img/me.jpg)
 
-*Est. 2026*
+*Est. 2026. Crafted with code and soul.*
