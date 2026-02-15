@@ -7,7 +7,7 @@ theme:
     - python
   locale: en 
 
-site_url: https://lisa-chi.github.io/  
+site_url: https://alisa-chiko.github.io/  
 extra_css:
   - stylesheets/extra.css  
 nav:
